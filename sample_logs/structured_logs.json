@@ -1,0 +1,7 @@
+{"timestamp": "2026-10-02T14:10:00Z", "level": "INFO", "service": "user-service", "message": "User login success", "user_id": 401}
+{"timestamp": "2026-10-02T14:10:05Z", "level": "WARN", "service": "auth-service", "message": "Token expiration approaching for session=sess_9912"}
+{"timestamp": "2026-10-02T14:10:12Z", "level": "ERROR", "service": "billing-service", "message": "Stripe API call failed: 502 Bad Gateway", "stack_trace": "billing.py:88 StripeError"}
+{"timestamp": "2026-10-02T14:10:14Z", "level": "ERROR", "service": "billing-service", "message": "Stripe API call failed: 502 Bad Gateway", "stack_trace": "billing.py:88 StripeError"}
+{"timestamp": "2026-10-02T14:10:16Z", "level": "ERROR", "service": "billing-service", "message": "Stripe API call failed: 502 Bad Gateway", "stack_trace": "billing.py:88 StripeError"}
+{"timestamp": "2026-10-02T14:11:00Z", "level": "INFO", "service": "user-service", "message": "User profile updated"}
+INVALID JSON CORRUPTED LINE HERE
